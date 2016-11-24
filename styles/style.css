@@ -1,0 +1,28 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+.ba-title {
+	color: #525152;
+}
+
+.ba-container {
+	width: 1200px;
+	background-color: #fff;
+	padding: 20px 20px;
+}
+
+.ba-box {
+	width: 100%;
+	height: 100%;
+}
+
+.ba-grid__line3 {
+	height: 185px;
+	overflow: hidden;
+}
+
+.ba-grid__line4 {
+	height: 135px;
+	overflow: hidden;
+}
